@@ -1,4 +1,4 @@
-**Package Delivery Simulation**	(2024)
+**Package Delivery Simulation**
 
 * Designed and implemented a virtual simulation of real-life package deliveries, utilizing design patterns (Singleton, Observer, Decorator, Factory) to enhance scalability, flexibility, and maintainability.
 * Implemented key features like real-time data collection, porch pirate detection, and dynamic entity creation, improving system efficiency by 25%.
